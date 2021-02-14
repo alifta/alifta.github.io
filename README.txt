@@ -1,2 +1,1 @@
-Title:
-    Ali Farrokhtala Github Page
+Ali Farrokhtala Github Page
